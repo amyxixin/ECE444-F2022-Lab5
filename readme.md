@@ -1,3 +1,5 @@
+# Amy Xin and Peter Wang
+This repo is a clone of [https://github.com/nelaturuk/education_pathways](https://github.com/nelaturuk/education_pathways).
 # CARTE Education Pathways
 
 ## Description
