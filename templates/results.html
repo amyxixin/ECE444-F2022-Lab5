@@ -25,9 +25,10 @@
       <p>{{render_field(form.top)}} <button type="button" value="Search" class="btn btn-secondary common-page-submit-btn">Search</button>
       </p></form>
       <h3>Search Results</h3>
-<div id="results-page-table-container"
+<div id="results-page-table-container">
 {% for table in tables %}
             {{ table|safe }}
 {% endfor %}
+</div>
 </body>
 </html>
