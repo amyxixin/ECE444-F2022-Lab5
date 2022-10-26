@@ -1,4 +1,4 @@
-from __init__ import create_app
+from .__init__ import create_app
 import pickle
 import networkx as nx
 import pandas as pd
